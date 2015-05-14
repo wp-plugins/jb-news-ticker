@@ -6,7 +6,7 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-JB News Ticker is an awesome, Responsive super multicolor variation plugin for your wordpress website.
+JB News Ticker is an awesome, Responsive super Multi Theme plugin for your wordpress website.
 
 == Description ==
 
