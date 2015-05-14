@@ -1,12 +1,12 @@
 === JB News Ticker ===
 Tags: News ticker, News Headlines, Headlines, jQuery type effect, Type effect jQuery news ticker
-Requires at least: 4.0
-Tested up to: 2.2
+Requires at least: 3.5
+Tested up to: 4.2.2
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-JB News Ticker is an awesome, Responsive super Multi Theme plugin for your wordpress website.
+JB News Ticker is a Responsive super Multi Theme plugin for your wordpress website.
 
 == Description ==
 
@@ -31,7 +31,7 @@ Shortcodes
 <pre>[jbticker]</pre>
 
 
-<strong>.Change Title, Speed and Count</strong>
+<strong>Change Title, Speed and Count</strong>
 <pre>[jbticker id="1" speed="2000" title="Breaking News" count="2" animation="typing"]</pre>
 
 
@@ -50,7 +50,7 @@ Shortcodes
 <strong>Change Animation</strong>
 <pre>[jbticker id="5" theme="3" rounded="false" animation="slide"]</pre>
 
-<strong>Speacial Note: If you use more than one JB News Ticker shortcode in a same page or post so you must be used  different nimber id like id="1", id="2", id="3" etc. </strong>
+* Speacial Note: If you use more than one JB News Ticker shortcode in a same page or post so you must be used  different nimber id like id="1", id="2", id="3" etc.
 
 == Frequently Asked Questions ==
 
